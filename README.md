@@ -4,9 +4,9 @@ Rising senior in Computer Systems Engineering at RPI, working on Physical AI: ro
 
 ### Currently
 
-**Fabric Intelligence** — Independent research into physical-world perception that doesn't privilege vision over other senses. [Read more →](https://github.com/aashrutjain/fabric-intelligence)
+**Fabric Intelligence**: Independent research into physical-world perception that doesn't privilege vision over other senses. [Read more →](https://github.com/aashrutjain/fabric-intelligence)
 
-**Semantic Environment Representation for Risk Aware Navigation** — Integrating VLM-derived safety scores into 4D Gaussian Splats and Control Barrier Functions for semantically-aware robot navigation. TLDR; Safe obstacle avoidance weighted by what an object is, not just how far it is.
+**Semantic Environment Representation for Risk Aware Navigation**: Integrating VLM-derived safety scores into 4D Gaussian Splats and Control Barrier Functions for semantically-aware robot navigation. TLDR; Safe obstacle avoidance weighted by what an object is, not just how far it is.
 
 ### Internships
 
